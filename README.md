@@ -4,4 +4,4 @@ Este en mi primer comentario en github
 
 Buenas noches mis alumnos
 
-## Bienvenido publico presente
+## Bienvenido público presente
